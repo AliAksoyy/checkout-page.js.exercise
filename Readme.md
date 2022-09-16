@@ -1,7 +1,7 @@
 <h1 align="center">Checkout-Page</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered division and responsive skills.I used mainly HTML and CSS. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 In this project I mastered division and responsive skills.I used mainly HTML, CSS and JS. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
@@ -35,7 +35,7 @@
 <!-- --------------------------------------- -->
 ### Purpose of Project;
 
-👨‍💻 The main aim of this project is to improve my <b>HTML/CSS/git commands (push, pull, commit, add etc.) skills and responsive design abilities</b>.
+👨‍💻 The main aim of this project is to improve my <b>HTML/CSS/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities</b>.
 
 
 ## Objective
@@ -56,7 +56,7 @@
 
 - Js Dom Elements and Selectors
 
--Js Event Handler
+- Js Event Handler
 
 ### At the end of the project, i will be able to;
 
@@ -73,7 +73,7 @@
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/AliAksoyy/team-members-page'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://aliaksoyy.github.io/checkout-page.js.exercise/'>My Docs</a>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
 <!-- ------------------------------------------------------------------------- -->

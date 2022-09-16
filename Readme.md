@@ -24,10 +24,12 @@
 004-team-members-page (folder)
 |
 |----readme.md                  
-|----images              
+|----images
+|----fonts             
 |----solution
         |----index.html  
         |----style.css   
+        |----main.js  
 ```
 
 <!-- --------------------------------------- -->

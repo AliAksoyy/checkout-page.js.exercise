@@ -6,9 +6,9 @@
 
 ## ✨ Demo
 
- <p align="center">
+ <!-- <p align="center">
   <img width="700" align="center" src="./images/Readme.gif" alt="demo"/>   
-</p>
+</p> -->
 
 ![Alt text](./img/ezgif.com-gif-maker.gif) 
 

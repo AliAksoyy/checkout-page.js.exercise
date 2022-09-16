@@ -10,7 +10,7 @@
   <img width="700" align="center" src="./images/Readme.gif" alt="demo"/>   
 </p> -->
 
-![Alt text](./img/ezgif.com-gif-maker.gif) 
+<!-- ![Alt text](./img/ezgif.com-gif-maker.gif)  -->
 
 <hr>
 
